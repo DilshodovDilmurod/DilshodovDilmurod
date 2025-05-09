@@ -41,7 +41,7 @@ I am a passionate Data Scientist with a deep interest in Artificial Intelligence
 
 ## 🧑‍💻 Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DilmurodDilshodov&layout=compact&langs_count=6&hide_title=true&hide_border=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DilshodovDilmurod&layout=compact&langs_count=6&hide_title=true&hide_border=true&theme=radical)
 
 ## 🌱 Currently Learning
 
