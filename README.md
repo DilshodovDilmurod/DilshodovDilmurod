@@ -35,15 +35,13 @@ I am a passionate Data Scientist with a deep interest in Artificial Intelligence
 ## 📧 How to Reach Me
 
 - Email: [dilmuroddilshodov296@gmail.com](mailto:dilmuroddilshodov296@gmail.com)
-- 📱 Telegram: [@username](https://t.me/ddilshodov1)
+- 📱 Telegram: [@ddilshodov1](https://t.me/ddilshodov1)
 
 ---
 
-## 📈 GitHub Stats
+## 🧑‍💻 Top Languages
 
-![Dilmurod's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DilmurodDilshodov&show_icons=true&hide_title=true&hide=prs&count_private=true&hide_border=true&theme=radical)
-
----
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DilmurodDilshodov&layout=compact&langs_count=6&hide_title=true&hide_border=true&theme=radical)
 
 ## 🌱 Currently Learning
 
