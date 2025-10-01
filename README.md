@@ -1,17 +1,5 @@
 # Hi, I'm Dilmurod Dilshodov 👋  
 
----
-
-
-<p align="center">
-  <img src="https://cdn-icons-png.flaticon.com/512/2103/2103691.png" alt="Data Science Icon" width="120"/>
-</p>
-
-# Hi, I'm Dilmurod Dilshodov 👋 
-
-
----
-
 ## 🛠️ Technologies & Tools  
 
 <p align="center">
