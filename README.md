@@ -3,8 +3,8 @@
 ---
 
 <p align="center">
-  <a href="https://www.shiksha.com/online-courses/articles/difference-between-data-science-and-data-analytics/" target="_blank">
-    <img src="[https://images.shiksha.com/mediadata/ugcDocuments/images/wordpressImages/2021_11_Data-Science-Vs.-Data-Analytics.jpg](https://www.shiksha.com/online-courses/articles/difference-between-data-science-and-data-analytics/)" alt="Data Science & Data Analytics" width="800"/>
+  <a href="[https://www.shiksha.com/online-courses/articles/difference-between-data-science-and-data-analytics/](https://images.shiksha.com/mediadata/ugcDocuments/images/wordpressImages/2021_11_Data-Science-Vs.-Data-Analytics.jpg)" target="_blank">
+    <img src="[[https://images.shiksha.com/mediadata/ugcDocuments/images/wordpressImages/2021_11_Data-Science-Vs.-Data-Analytics.jpg](https://www.shiksha.com/online-courses/articles/difference-between-data-science-and-data-analytics/)" alt="Data Science & Data Analytics](https://images.shiksha.com/mediadata/ugcDocuments/images/wordpressImages/2021_11_Data-Science-Vs.-Data-Analytics.jpg)" width="800"/>
   </a>
 </p>
 
