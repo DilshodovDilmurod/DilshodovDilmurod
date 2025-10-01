@@ -2,12 +2,12 @@
 
 ---
 
+
 <p align="center">
-  <a href="[https://www.shiksha.com/online-courses/articles/difference-between-data-science-and-data-analytics/](https://images.shiksha.com/mediadata/ugcDocuments/images/wordpressImages/2021_11_Data-Science-Vs.-Data-Analytics.jpg)" target="_blank">
-    <img src="[[https://images.shiksha.com/mediadata/ugcDocuments/images/wordpressImages/2021_11_Data-Science-Vs.-Data-Analytics.jpg](https://www.shiksha.com/online-courses/articles/difference-between-data-science-and-data-analytics/)" alt="Data Science & Data Analytics](https://images.shiksha.com/mediadata/ugcDocuments/images/wordpressImages/2021_11_Data-Science-Vs.-Data-Analytics.jpg)" width="800"/>
-  </a>
+  <img src="https://i.ibb.co/5cM8bC9/data-science-banner.png" alt="Data Science Banner" width="600"/>
 </p>
 
+# Hi, I'm Dilmurod Dilshodov 👋 
 
 
 ---
