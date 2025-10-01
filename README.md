@@ -4,8 +4,9 @@
 
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DilshodovDilmurod/DilshodovDilmurod/main/assets/datascience_banner.png" alt="Data Science & Analytics" width="800"/>
+  <img src="https://www.simplilearn.com/ice9/free_resources_article_thumb/what_is_Data_Science.jpg" alt="Data Science & Analytics" width="800"/>
 </p>
+
 
 ---
 
