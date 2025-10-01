@@ -2,9 +2,10 @@
 
 ---
 
-<!-- Banner Image -->
 <p align="center">
-  <img src="https://www.simplilearn.com/ice9/free_resources_article_thumb/what_is_Data_Science.jpg" alt="Data Science & Analytics" width="800"/>
+  <a href="https://www.shiksha.com/online-courses/articles/difference-between-data-science-and-data-analytics/" target="_blank">
+    <img src="assets/51566552-d245-49d7-998c-087f8096a657.png" alt="Data Science & Data Analytics" width="800"/>
+  </a>
 </p>
 
 
