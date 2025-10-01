@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <img src="https://i.ibb.co/5cM8bC9/data-science-banner.png" alt="Data Science Banner" width="600"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/2103/2103691.png" alt="Data Science Icon" width="120"/>
 </p>
 
 # Hi, I'm Dilmurod Dilshodov 👋 
