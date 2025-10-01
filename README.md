@@ -3,7 +3,7 @@
 ---
 
 <p align="center">
-  <a href="https://www.shiksha.com/online-courses/articles/difference-between-data-science-and-data-analytics/" target="_blank">
+  <a href="[https://www.shiksha.com/online-courses/articles/difference-between-data-science-and-data-analytics/](https://www.shiksha.com/online-courses/articles/difference-between-data-science-and-data-analytics/)" target="_blank">
     <img src="assets/51566552-d245-49d7-998c-087f8096a657.png" alt="Data Science & Data Analytics" width="800"/>
   </a>
 </p>
