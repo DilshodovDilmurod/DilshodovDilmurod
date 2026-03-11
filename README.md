@@ -15,8 +15,10 @@
 
 ## 📧 How to Reach Me  
 
-- ✉️ Email: [dilmuroddilshodov296@gmail.com](mailto:dilmuroddilshodov296@gmail.com)  
-- 📱 Telegram: [@ddilshodov1](https://t.me/ddilshodov1)  
+* ✉️ **Email:** [dilmuroddilshodov296@gmail.com](mailto:dilmuroddilshodov296@gmail.com)
+* 📱 **Telegram:** [@ddilshodov1](https://t.me/ddilshodov1)
+* 💼 **LinkedIn:** [ddilshodov1](https://www.linkedin.com/in/ddilshodov1)
+
 
 ---
 
