@@ -22,7 +22,12 @@
 
 ## 🧑‍💻 Top Languages  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DilshodovDilmurod&layout=compact&langs_count=6&hide_title=true&hide_border=true&theme=radical)  
+### 🛠 Technologies I use
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SSMS-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ---
 
