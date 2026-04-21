@@ -2,7 +2,7 @@
 
 ### 📊 Data Analyst
 
-I work with data in the field of analytics, focusing on data cleaning, querying, and extracting insights for decision-making, working with real-world datasets such as census data. I focus on data cleaning, transformation, and writing efficient SQL queries, as well as building ETL processes to extract meaningful insights for data-driven decision-making.
+I specialize in data analytics, working with real-world datasets such as census data. I focus on data cleaning, transformation, and writing efficient SQL queries, as well as building ETL processes to deliver meaningful insights for data-driven decision-making.
 ---
 
 ## 🛠 Tech Stack
