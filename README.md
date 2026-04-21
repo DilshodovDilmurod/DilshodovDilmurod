@@ -3,7 +3,6 @@
 ### 📊 Data Analyst
 
 I work with data in the field of analytics, focusing on data cleaning, querying, and extracting insights for decision-making.
-
 ---
 
 ## 🛠 Tech Stack
